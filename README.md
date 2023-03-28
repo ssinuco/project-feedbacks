@@ -1,3 +1,4 @@
+```mermaid
   flowchart TD;
     Start[Inicio]
     Start-->IntroQuestions
@@ -177,4 +178,5 @@
         direction LR
         NextSteps[Conclusiones y próximos pasos]
     end
-    Fin
+    Finish[Fin]
+```
